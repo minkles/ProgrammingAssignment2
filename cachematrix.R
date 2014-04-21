@@ -2,7 +2,7 @@
 ## inverse can be cached in order to save time on calculations.
 
 ## The function makeCacheMatix creates a list containing 4 functions 
-## relating to a matrix object contained within makeCacheMatrix.
+## relating to a matrix object contained within.
 ## The 4 functions are:
 ## makeCacheMatrix$set(y) <- sets the value of the matrix
 ## makeCacheMatrix$get() <- returns the value of the matrix
